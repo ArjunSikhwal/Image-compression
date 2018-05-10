@@ -27,8 +27,6 @@ plotProgresskMeans.m - Plots each step of K-means as it proceeds
 
 runkMeans.m - Runs the K-means algorithm
 
-submit.m - Submission script that sends your solutions to our servers
-
 pca.m - Perform principal component analysis
 
 projectData.m - Projects a data set into a lower dimensional space
