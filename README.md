@@ -1,7 +1,7 @@
 # Image-compression
 Image Compression Using K means clustering
 
-This is an assignment that i completed in Andrew NG's machine learning course on coursera.org
+This repo is specially created for the work done by me as a part of Coursera's Machine Learning Course.
 
 # File name and their function
 
