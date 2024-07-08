@@ -1,7 +1,7 @@
 # Image-compression
-Image Compression Using K means clustering
+Image Compression Using K-Means Clustering
 
-This repo is specially created for the work done by me as a part of Coursera's Machine Learning Course.
+This repository contains my work for the Coursera Machine Learning course, showcasing the application of K-Means clustering for image compression.
 
 # File name and their function
 
